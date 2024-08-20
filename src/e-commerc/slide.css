@@ -1,0 +1,21 @@
+.img{
+    height: 500px;
+}
+.im{
+    height: 150px;
+}
+.m{
+    height: 400px;
+}
+.card{
+    width: 250px;
+}
+.tx{
+    
+    max-height: 80px; /* تحديد أقصى ارتفاع للبطاقة */
+    overflow-y: auto;  /* تفعيل التمرير الرأسي عندما يتجاوز النص الارتفاع */
+
+}
+.ove{
+    overflow:hidde;
+}
